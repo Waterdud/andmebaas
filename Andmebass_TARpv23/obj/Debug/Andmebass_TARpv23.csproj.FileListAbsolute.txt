@@ -1,0 +1,12 @@
+C:\Users\opilane\Source\Repos\Andmebass_TARpv23\bin\Debug\Andmebaas1.mdf
+C:\Users\opilane\Source\Repos\Andmebass_TARpv23\bin\Debug\Andmebaas1_log.ldf
+C:\Users\opilane\Source\Repos\Andmebass_TARpv23\bin\Debug\Andmebass_TARpv23.exe.config
+C:\Users\opilane\Source\Repos\Andmebass_TARpv23\bin\Debug\Andmebass_TARpv23.exe
+C:\Users\opilane\Source\Repos\Andmebass_TARpv23\bin\Debug\Andmebass_TARpv23.pdb
+C:\Users\opilane\Source\Repos\Andmebass_TARpv23\obj\Debug\Andmebass_TARpv23.csproj.AssemblyReference.cache
+C:\Users\opilane\Source\Repos\Andmebass_TARpv23\obj\Debug\Andmebass_TARpv23.Form1.resources
+C:\Users\opilane\Source\Repos\Andmebass_TARpv23\obj\Debug\Andmebass_TARpv23.Properties.Resources.resources
+C:\Users\opilane\Source\Repos\Andmebass_TARpv23\obj\Debug\Andmebass_TARpv23.csproj.GenerateResource.cache
+C:\Users\opilane\Source\Repos\Andmebass_TARpv23\obj\Debug\Andmebass_TARpv23.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Source\Repos\Andmebass_TARpv23\obj\Debug\Andmebass_TARpv23.exe
+C:\Users\opilane\Source\Repos\Andmebass_TARpv23\obj\Debug\Andmebass_TARpv23.pdb
